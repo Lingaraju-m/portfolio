@@ -1,0 +1,26 @@
+
+.about-bio-tile {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: var(--space-4);
+}
+
+.about-bio-tile p {
+  color: var(--text);
+  font-size: 1.1rem;
+  line-height: 1.75;
+  margin: 0;
+} 
+
+.about-bio-tile a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.about-image-tile {
+  padding: 0;
+  display: flex;
+  min-height: 300px;
+}

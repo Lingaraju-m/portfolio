@@ -1,0 +1,23 @@
+
+{
+  "education": [
+    {
+      "title": "2020 - 2024",
+      "cardTitle": "Bachelor of Engineering - Information Science & Engineering",
+      "cardSubtitle": "Bapuji Institute of Engineering and Technology, Davanagere, Karnataka, India",
+      "cardDetailedText": "CGPA: 8.9"
+    },
+    {
+      "title": "2018 - 2020",
+      "cardTitle": "Pre-University Course (PUC)",
+      "cardSubtitle": "PACE UM PU College, Shivamogga, Karnataka, India",
+      "cardDetailedText": "Percentage: 90%"
+    },
+    {
+      "title": "SSLC",
+      "cardTitle": "Secondary School Leaving Certificate",
+      "cardSubtitle": "Stella Maris High School, Honnali, Davanagere, Karnataka, India",
+      "cardDetailedText": "Percentage: 97%"
+    }
+  ]
+}

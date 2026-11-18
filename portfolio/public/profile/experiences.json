@@ -1,0 +1,21 @@
+
+{
+  "experiences": [
+    {
+      "title": "Assistant System Engineer",
+      "subtitle": "Tata Consultancy Services (TCS)",
+      "workType": "Full-time",
+      "workDescription": [
+        "Developing and maintaining **enterprise web applications** using **C#, ASP.NET Core, .NET 8, and ASP.NET MVC**.",
+        "Contributing to the implementation of **Multi-Factor Authentication (MFA)** workflows, including OTP-based verification and authentication integrations.",
+        "Working with **RESTful APIs, OAuth authentication, and token-based integrations** to support secure application communication.",
+        "Performing database operations, writing and modifying **SQL queries and stored procedures**, and working with **Microsoft SQL Server and PostgreSQL**.",
+        "Implementing application logging and troubleshooting using **NLog**, along with debugging and maintaining existing application functionality.",
+        "Working with **Entity Framework Core, SSIS, and SQL Server Agent** across different application development and maintenance activities.",
+        "Collaborating with cross-functional teams using **Jira, Confluence, Git, and Agile/Scrum practices** to track tasks and support development workflows.",
+        "Exploring **AI-assisted software development** using GitHub Copilot and Claude to improve development productivity and problem-solving."
+      ],
+      "dateText": "02/2025 – Present"
+    }
+  ]
+}

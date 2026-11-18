@@ -1,0 +1,131 @@
+
+{
+  "projects": [
+    {
+      "title": "Employee Management System",
+      "bodyText": "- Building an employee management application using **ASP.NET Core Web API, React.js, and SQL Server**.\n- Implementing employee CRUD operations, data validation, and structured API endpoints.\n- Using **Entity Framework Core, DTOs, and Dependency Injection** for maintainable backend development.\n- Exploring layered architecture, exception handling, and secure API development.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Lingaraju-m/employee-management-system"
+        }
+      ],
+      "tags": [
+        "C#",
+        "ASP.NET Core",
+        ".NET 8",
+        "Web API",
+        "React.js",
+        "SQL Server",
+        "Entity Framework Core",
+        "JWT"
+      ]
+    },
+    {
+      "title": "Book Management API",
+      "bodyText": "- Developing a book management REST API using **ASP.NET Core Web API**.\n- Implementing book management operations with structured endpoints and database integration.\n- Exploring **JWT-based authentication, authorization, and OTP verification** for secure user access.\n- Applying DTOs, Entity Framework Core, and dependency injection to maintain a clean backend architecture.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Lingaraju-m/Books-Managment"
+        }
+      ],
+      "tags": [
+        "C#",
+        "ASP.NET Core",
+        "Web API",
+        "JWT",
+        "OTP",
+        "SQL Server",
+        "Entity Framework Core"
+      ]
+    },
+    
+  {
+  "title": "Student Management System (ASP.NET Core MVC)",
+  "bodyText": "- Developing a student management web application using **ASP.NET Core MVC and C#**.\n- Implementing student CRUD operations, including creating, viewing, updating, and deleting student records.\n- Using **Razor Views, Controllers, Models, and Entity Framework Core** to implement the MVC architecture.\n- Integrating **SQL Server** for database management and applying server-side validation.\n- Implementing clean application structure, dependency injection, and error handling.",
+  "links": [
+    {
+      "text": "GitHub",
+      "href": "https://github.com/Lingaraju-m/student-management-mvc"
+    },
+     {
+          "text": "Live",
+          "href": "https://vijaya-college.vercel.app/"
+        }
+  ],
+  "tags": [
+    "C#",
+    "ASP.NET Core MVC",
+    ".NET 8",
+    "Razor Views",
+    "Entity Framework Core",
+    "SQL Server",
+    "LINQ",
+    "Bootstrap"
+    ]
+  },
+    {
+      "title": "React News Application",
+      "bodyText": "- Developing a news application using **React.js and JavaScript** to retrieve and display news articles from an external API.\n- Implementing API integration and asynchronous data fetching.\n- Organizing news content into reusable components with a responsive user interface.\n- Exploring React Hooks, component-based architecture, and API error handling.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Lingaraju-m/new-app"
+        },
+         {
+          "text": "Live",
+          "href": "https://vijaya-college.vercel.app/"
+        }
+      ],
+      "tags": [
+        "React.js",
+        "JavaScript",
+        "REST API",
+        "HTML5",
+        "CSS3"
+      ]
+    },
+     {
+      "title": "Personal Expense Tracker API",
+      "bodyText": "- Developing a personal expense management REST API using **ASP.NET Core Web API and SQL Server**.\n- Implementing **JWT authentication and authorization** to secure user-specific financial records.\n- Designing expense and income management features with category-based organization.\n- Using **Entity Framework Core, LINQ, DTOs, and Dependency Injection** for database operations and application architecture.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Lingaraju-m/Personal-Expense-Tracker-API"
+        }
+      ],
+      "tags": [
+        "C#",
+        "ASP.NET Core",
+        "REST API",
+        "JWT",
+        "SQL Server",
+        "Entity Framework Core",
+        "LINQ"
+      ]
+    },
+  {
+      "title": "Vijaya College Website",
+      "bodyText": "- Developed a responsive college website using **React.js and Vite**.\n- Created a user-friendly interface to showcase college information, academic details, and institutional content.\n- Implemented reusable components and responsive layouts for different screen sizes.\n- Deployed the application using **Vercel**.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Lingaraju-m/Vijaya-College-"
+        },
+        {
+          "text": "Live",
+          "href": "https://vijaya-college.vercel.app/"
+        }
+      ],
+      "tags": [
+        "React.js",
+        "JavaScript",
+        "HTML5",
+        "CSS3",
+        "Vite",
+        "Vercel"
+      ]
+    }
+  ]
+}
